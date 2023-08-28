@@ -18,8 +18,7 @@ Follow these instructions to compile and run the WordLang compiler on your PC.
 
 3. Run the following command to compile the WordLang compiler:
    
-   ```bash
--  make
+   ```bash make
 ### Usage
 Example 1:
 - ./wordlang test00.wl t0.c
