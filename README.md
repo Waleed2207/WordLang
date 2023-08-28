@@ -4,12 +4,12 @@
 ## Command Line to generate compiler:-
 
 ------------------------ 
-make
+** make
 ------------------------
 Example 1:-
- ./wordlang test00.wl t0.c
- gcc -o t0 t0.c utils.c
- ./t0
+./wordlang test00.wl t0.c
+gcc -o t0 t0.c utils.c
+./t0
 ---------------
 Example 2:-
  ./wordlang test01.wl t1.c
