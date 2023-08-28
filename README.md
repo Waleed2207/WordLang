@@ -1,0 +1,20 @@
+# WordLang
+# Make to generate compiler:- ("environment: PC").
+
+## Command Line to generate compiler:-
+
+------------------------ 
+make
+------------------------
+Example 1:-
+ ./wordlang test00.wl t0.c
+ gcc -o t0 t0.c utils.c
+ ./t0
+---------------
+Example 2:-
+ ./wordlang test01.wl t1.c
+ gcc -o t1 t1.c utils.c
+ ./t1
+------------------------
+make clean
+------------------------
