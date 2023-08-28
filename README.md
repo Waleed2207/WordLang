@@ -35,4 +35,5 @@ Example 2:
 To clean up the generated files, you can use the following command:
    ```bash
    make clean
+## THE TASK:
 [WordLang1.pdf](https://github.com/Waleed2207/WordLang/files/12456910/WordLang1.pdf)
