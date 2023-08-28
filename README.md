@@ -19,18 +19,18 @@ Follow these instructions to compile and run the WordLang compiler on your PC.
 3. Run the following command to compile the WordLang compiler:
    
    ```bash
-### make
+-  make
 ### Usage
 Example 1:
-./wordlang test00.wl t0.c
-gcc -o t0 t0.c utils.c
-./t0
+- ./wordlang test00.wl t0.c
+- gcc -o t0 t0.c utils.c
+- ./t0
 
 Example 2:
-./wordlang test01.wl t1.c
-gcc -o t1 t1.c utils.c
-./t1
+- ./wordlang test01.wl t1.c
+- gcc -o t1 t1.c utils.c
+- ./t1
 
 ### Cleaning Up
 To clean up the generated files, you can use the following command:
-make clean
+- make clean
